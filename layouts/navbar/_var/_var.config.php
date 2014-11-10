@@ -16,6 +16,7 @@ $d['layout']['dom'] = array(
 		'', /** 탭 메세지(생략시 공백) **/
 		array(
 			array('brand','input','Site Brand',''),
+			array('navbarInvert','select','Navbar Invert','default=default,inverse=inverse'), /** 콤보박스 **/
 			array('theme','select','Theme','none=none,default=default'), /** 콤보박스 **/
 		),
 	),
