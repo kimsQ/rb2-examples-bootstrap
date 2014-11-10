@@ -17,6 +17,7 @@ $d['layout']['dom'] = array(
 		array(
 			array('brand','input','Site Brand',''),
 			array('navbarType','select','Navbar type','Static top=static,Fixed top=fixed'), /** 콤보박스 **/
+			array('navbarInvert','select','Navbar Invert','default=default,inverse=inverse'), /** 콤보박스 **/
 			array('theme','select','Theme','none=none,default=default'), /** 콤보박스 **/
 		),
 	),
