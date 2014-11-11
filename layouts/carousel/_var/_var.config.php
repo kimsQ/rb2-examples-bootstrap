@@ -24,19 +24,20 @@ $d['layout']['dom'] = array(
 	/** 도움말 **/
 	'help' => array(
 		'Guide',
-		'<h4>Bootstrap Jumbotron</h4>
+		'<h4>Bootstrap Carousel One Page</h4>
 		Build around the jumbotron with a navbar and some basic grid columns.
+
 		<hr>
 		<h5>Source code</h5>
 		<ul>
-			<li><a href="https://github.com/twbs/bootstrap/tree/master/docs/examples/jumbotron" target="_blank">Design template</a></li>
-		 	<li><a href="https://github.com/kimsQ/rb2-examples-bootstrap/tree/develop/layouts/jumbotron" target="_blank">Rb2 layout</a></li>
+			<li><a href="https://github.com/twbs/bootstrap/tree/master/docs/examples/carousel" target="_blank">Design template</a></li>
+		 	<li><a href="https://github.com/kimsQ/rb2-examples-bootstrap/tree/develop/layouts/carousel" target="_blank">Rb2 layout</a></li>
 		 </ul>
 
 		<h5>Demo</h5>
 		<ul>
-			<li><a href="http://getbootstrap.com/examples/jumbotron/" target="_blank">Design template</a></li>
-		 	<li><a href="http://demo.kimsq.com/rb2/jumbotron/" target="_blank">Rb2 site</a></li>
+			<li><a href="http://getbootstrap.com/examples/carousel/" target="_blank">Design template</a></li>
+		 	<li><a href="http://demo.kimsq.com/rb2/carousel/" target="_blank">Rb2 site</a></li>
 		 </ul>
 
 		<h5>Docs</h5>
