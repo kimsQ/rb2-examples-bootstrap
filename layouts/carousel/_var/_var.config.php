@@ -42,7 +42,7 @@ $d['layout']['dom'] = array(
 
 		<h5>Docs</h5>
 		<ul>
-		 	<li><a href="http://docs.kimsq.com/rb2/docs/c/examples/bootstrap-official/jumbotron" target="_blank">Setting Guide</a></li>
+		 	<li><a href="http://docs.kimsq.com/rb2/docs/c/examples/bootstrap-official/carousel" target="_blank">Setting Guide</a></li>
 		 </ul>',
 		array(),
 	),
