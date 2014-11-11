@@ -31,7 +31,7 @@ $d['layout']['dom'] = array(
 		<h5>Source code</h5>
 		<ul>
 			<li><a href="https://github.com/twbs/bootstrap/tree/master/docs/examples/carousel" target="_blank">Design template</a></li>
-		 	<li><a href="https://github.com/kimsQ/rb2-examples-bootstrap/tree/develop/layouts/carousel" target="_blank">Rb2 layout</a></li>
+		 	<li><a href="https://github.com/kimsQ/rb2-examples-bootstrap/tree/master/layouts/carousel" target="_blank">Rb2 layout</a></li>
 		 </ul>
 
 		<h5>Demo</h5>
