@@ -24,24 +24,25 @@ $d['layout']['dom'] = array(
 	/** 도움말 **/
 	'help' => array(
 		'Guide',
-		'<h4>Bootstrap Jumbotron</h4>
-		Build around the jumbotron with a navbar and some basic grid columns.
+		'<h4>Bootstrap Sign-in</h4>
+		Custom form layout and design for a simple sign in form.
+
 		<hr>
 		<h5>Source code</h5>
 		<ul>
-			<li><a href="https://github.com/twbs/bootstrap/tree/master/docs/examples/jumbotron" target="_blank">Design template</a></li>
-		 	<li><a href="https://github.com/kimsQ/rb2-examples-bootstrap/tree/develop/layouts/jumbotron" target="_blank">Rb2 layout</a></li>
+			<li><a href="https://github.com/twbs/bootstrap/tree/master/docs/examples/signin" target="_blank">Design template</a></li>
+		 	<li><a href="https://github.com/kimsQ/rb2-examples-bootstrap/tree/master/layouts/signin" target="_blank">Rb2 layout</a></li>
 		 </ul>
 
 		<h5>Demo</h5>
 		<ul>
-			<li><a href="http://getbootstrap.com/examples/jumbotron/" target="_blank">Design template</a></li>
-		 	<li><a href="http://demo.kimsq.com/rb2/jumbotron/" target="_blank">Rb2 site</a></li>
+			<li><a href="http://getbootstrap.com/examples/signin/" target="_blank">Design template</a></li>
+		 	<li><a href="http://demo.kimsq.com/rb2/signin/" target="_blank">Rb2 site</a></li>
 		 </ul>
 
 		<h5>Docs</h5>
 		<ul>
-		 	<li><a href="http://docs.kimsq.com/rb2/docs/c/examples/bootstrap-official/jumbotron" target="_blank">Setting Guide</a></li>
+		 	<li><a href="http://docs.kimsq.com/rb2/docs/c/examples/bootstrap-official/signin" target="_blank">Setting Guide</a></li>
 		 </ul>',
 		array(),
 	),
