@@ -1,8 +1,8 @@
-# [Bootstrap Jumbotron template for kimsQ Rb2](http://kimsq.github.io/rb2-examples-bootstrap)
-Build around the jumbotron with a navbar and some basic grid columns.
+# [Bootstrap dashboard layout for kimsQ Rb2](http://kimsq.github.io/rb2-examples-bootstrap)
+Basic structure for a admin dashboard with fixed sidebar and navbar.
 
-- Rb2 데모 <http://demo.kimsq.com/rb2/jumbotron>
-- 템플릿 원본 <http://getbootstrap.com/examples/jumbotron/>
+- Rb2 데모 <http://demo.kimsq.com/rb2/dashboard>
+- 템플릿 원본 <http://getbootstrap.com/examples/dashboard/>
 
 
 
