@@ -10,11 +10,6 @@
 <!-- Bootstrap core CSS -->
 <?php getImport('bootstrap','css/bootstrap.min',false,'css')?>
 
-<?php if ($d['layout']['site_theme']!== "none") :?>
-<!-- Bootstrap theme -->
-<link href="<?php echo $g['url_layout']?>/_css/theme/<?php echo $d['layout']['site_theme']?>/bootstrap-theme.min.css" rel="stylesheet">
-<?php endif?>
-
 <!-- Custom styles for this template -->
 <link href="<?php echo $g['url_layout']?>/_css/style.css" rel="stylesheet">
 <link href="<?php echo $g['url_layout']?>/_css/custom.css" rel="stylesheet">

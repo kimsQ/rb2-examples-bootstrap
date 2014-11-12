@@ -1,8 +1,8 @@
-# [Bootstrap Jumbotron template for kimsQ Rb2](http://kimsq.github.io/rb2-examples-bootstrap)
-Build around the jumbotron with a navbar and some basic grid columns.
+# [Bootstrap Sticky footer layout for kimsQ Rb2](http://kimsq.github.io/rb2-examples-bootstrap)
 
-- Rb2 데모 <http://demo.kimsq.com/rb2/jumbotron>
-- 템플릿 원본 <http://getbootstrap.com/examples/jumbotron/>
+
+- Rb2 데모 <http://demo.kimsq.com/rb2/sticky-footer>
+- 템플릿 원본 <http://getbootstrap.com/examples/sticky-footer/>
 
 
 
